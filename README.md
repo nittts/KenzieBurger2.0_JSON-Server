@@ -82,7 +82,7 @@ Caso já esteja registrado:
 "Email already exists"
 ```
 
-Caso a senha seja menor que 6 caractéres:
+Caso a senha seja menor que 4 caractéres:
 
 ```JSON
 "Password is too short"
